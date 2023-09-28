@@ -4,17 +4,19 @@ Hi 👋 My name is Nkpozi Marcel (Captured-Heart)
 Flutter Developer
 -----------------
 
-A human being first, then a developer that started out on the web but is currently focused on mobile(Flutter) developments. I am open to your ideas and enjoy contributing to open-source projects that interest me.
+A human being first, then a developer who started out on the web but is currently focused on mobile(Flutter) developments. I am open to your ideas and enjoy contributing to open-source projects that interest me.
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [here](http://nkpozi.web.app)
 *   ✉️  You can contact me at [knkpozi@gmail.com](mailto:knkpozi@gmail.com)
 *   🚀  I'm currently working on [My Own Ideas](http://github.com/Captured-Heart?tab=repositories)
-*   🤝  I'm open to collaborating on any project in health, e-commerce, education, AI, or fintech etc.
-*   ⚡  I'm open-minded, can relocate to any part of the world, as long as I love the project/idea
+*   🤝  I'm open to collaborating on any project in health, e-commerce, education, AI, fintech, etc.
+*   ⚡  I'm open-minded and can relocate to any part of the world, as long as I love the project/idea
 
  <b>Skills </b>
 <p align="left">
+<! 🖥️  See my portfolio at [here](http://nkpozi.web.app) !>
+ 
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
