@@ -10,8 +10,8 @@ A human being first, then a developer that started out on the web but is current
 *   🖥️  See my portfolio at [here](http://nkpozi.web.app)
 *   ✉️  You can contact me at [knkpozi@gmail.com](mailto:knkpozi@gmail.com)
 *   🚀  I'm currently working on [My Own Ideas](http://github.com/Captured-Heart?tab=repositories)
-*   🤝  I'm open to collaborating on Health and Fintech projects.
-*   ⚡  I'm open minded, can relocate to any part of the world, as long as i love the project/idea
+*   🤝  I'm open to collaborating on any project in health, e-commerce, education, AI, or fintech etc.
+*   ⚡  I'm open-minded, can relocate to any part of the world, as long as I love the project/idea
 
  <b>Skills </b>
 <p align="left">
