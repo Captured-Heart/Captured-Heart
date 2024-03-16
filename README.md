@@ -1,12 +1,11 @@
 Hi 👋 My name is Nkpozi Marcel (Captured-Heart)
 ===============================================
 
-Flutter Developer
+Mobile Developer
 -----------------
 
-A human being first, then a developer who started out on the web but is currently focused on mobile(Flutter) developments. I am open to your ideas and enjoy contributing to open-source projects that interest me.
+A human being first, then a developer who started on the web but is currently focused on Mobile (Flutter) developments. I am open to your ideas and enjoy contributing to open-source projects that interest me.
 
-*   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [knkpozi@gmail.com](mailto:knkpozi@gmail.com)
 *   🚀  I'm currently working on [My Own Ideas](http://github.com/Captured-Heart?tab=repositories)
 *   🤝  I'm open to collaborating on any project in health, e-commerce, education, AI, fintech, etc.
